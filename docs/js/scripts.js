@@ -62,7 +62,7 @@ function myFunction() {
         dots.style.display = "inline";
         btnText.innerHTML = "Read more";
         moreText.style.display = "none";
-        document.location = "#Personal Statement"
+        location.assign("#Personal Statement")
     } else {
         dots.style.display = "none";
         btnText.innerHTML = "Read less";
