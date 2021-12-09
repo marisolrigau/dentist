@@ -7265,7 +7265,6 @@ textarea.form-control-lg {
 
 .justify-content-center {
   justify-content: center !important;
-  padding-top: 400px;
 }
 
 .justify-content-between {
@@ -11724,4 +11723,9 @@ body {
 
 #pic-container4{
   padding-bottom: 50px;
+}
+
+#get-started-btn{
+  position: absolute;
+  bottom: 30px;
 }
