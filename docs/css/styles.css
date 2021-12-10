@@ -11709,7 +11709,15 @@ body {
   margin-bottom: 10px;
 }
 
+#p2{
+  margin-bottom: 10px;
+}
+
 #pic-container{
+  padding-bottom: 50px;
+}
+
+#pic-container1{
   padding-bottom: 50px;
 }
 
